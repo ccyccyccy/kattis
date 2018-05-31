@@ -1,2 +1,0 @@
-# kattis
-All kattis attempts
